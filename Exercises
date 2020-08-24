@@ -4,3 +4,9 @@
     The sequence of numbers to find the number 16:
         12, 15, 17, -1
 
+3. Find a book
+    First find the largest digit and narrow down to those 100 digits, then find the tens digit and narrow down from there, then to the ones digit and decimals thereforth.  At that node/index, return the node/index's value.
+
+4. Searching in a BST
+    a. The postorder traversal would be 14, 19, 15, 27, 25, 79, 90, 91, 89, 35
+    b. The preorder traversal would be 8, 9, 6, 5, 7, 10, 11
